@@ -54,7 +54,7 @@ class _SongPageState extends State<SongPage> {
                     color: Colors.black,
                     shadows: [
                       Shadow(
-                        offset: Offset(3.0, 4.0),
+                        offset: Offset(3.0, 3.0),
                         blurRadius: 10,
                         color: Colors.black,
                       ),
